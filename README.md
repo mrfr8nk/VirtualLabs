@@ -2,8 +2,8 @@
 
 > Bringing practical science education to every student through interactive virtual laboratories.
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/virtuallabs)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/virtuallabs?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/mrfr8nk/virtuallabs)
+![GitHub stars](https://img.shields.io/github/stars/mrfr8nk/virtuallabs?style=social)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Made With](https://img.shields.io/badge/Made%20With-React%20%7C%20Firebase%20%7C%20Python-success)
 
@@ -94,7 +94,7 @@ The platform allows learners to explore:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/virtuallabs.git
+git clone https://github.com/mrfr8nk/virtuallabs.git
 ```
 
 Move into the project folder:
